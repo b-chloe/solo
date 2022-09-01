@@ -1,0 +1,2 @@
+# solo
+Dojo solo project
